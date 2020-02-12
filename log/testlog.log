@@ -1,0 +1,14 @@
+2019-09-26 17:02:09,386 - TC01_log4i -INFO - Browser Launch
+2019-09-26 17:02:10,611 - TC01_log4i -INFO - Window maximize
+2019-09-26 17:02:10,628 - TC01_log4i -INFO - deleteallcookies
+2019-09-26 17:02:10,640 - TC01_log4i -INFO - Pageloadtimeout
+2019-09-26 17:02:10,648 - TC01_log4i -INFO - implicitly wait
+2019-09-26 17:02:14,792 - TC01_log4i -INFO - urlopen
+2019-09-26 17:02:17,355 - TC01_log4i -INFO - Contact us page open
+2019-09-26 17:03:53,535 - TC01_log4i -INFO - Browser Launch
+2019-09-26 17:03:54,689 - TC01_log4i -INFO - Window maximize
+2019-09-26 17:03:54,706 - TC01_log4i -INFO - deleteallcookies
+2019-09-26 17:03:54,714 - TC01_log4i -INFO - Pageloadtimeout
+2019-09-26 17:03:54,730 - TC01_log4i -INFO - implicitly wait
+2019-09-26 17:04:01,354 - TC01_log4i -INFO - applaunched
+2019-09-26 17:04:07,432 - TC01_log4i -INFO - Contact us page open

@@ -1,0 +1,36 @@
+Extent Reports:
+==============
+
+
+
+ExtentReports provided 3 classes
+
+1.ExtenthtmlReporter
+2.ExtentReports
+3.ExtentTest
+
+1.ExtenthtmlReporter:
+--------------------
+
+ExtenthtmlReporter is for look and feel.
+
+i.e ReportName,DocumentTitle,Theme of the Report
+
+
+2.ExtentReports:
+---------------
+   It is used to create a entries in your report
+    ->To create your test cases nside the report we have to use ExtentReport
+   
+  
+  
+ 3.ExtentTest:
+ -------------
+ 
+ It is used make update your status to your report
+   ->May be sometimes test cases will be pass,failure,skipped 
+       and sometimes we need update the logs.
+ 
+
+
+

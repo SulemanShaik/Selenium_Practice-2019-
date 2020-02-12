@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg Practice">
+  <test  name="Different Test Operations">
+    <classes>
+      <class name="PART22.com.qa.testng.TC01_TestNGBasics"/>
+      <class name="PART22.com.qa.testng.TC02_Assertions"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

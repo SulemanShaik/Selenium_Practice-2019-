@@ -1,0 +1,28 @@
+Xpath:
+======
+ * Xpath is defined as xml path
+ * it is a syntax or language for finding any element on the web page using
+    XML path expression.
+   
+ * Xpath is used to find the location of any element on a webpage
+      using HTML DOM Structure.
+ 
+
+There are 2 types of xpath:
+--------------------------
+
+1.Absolute Xpath
+2.Relative Xpath
+
+
+
+
+
+
+
+
+
+
+
+
+

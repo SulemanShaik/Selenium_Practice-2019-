@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Primus Bank Suite Automation">
+  <test  name="Admin Login Test">
+    <parameter name ="url" value="http://primusbank.qedgetech.com/"></parameter>
+    <parameter name ="username" value="Admin"></parameter>
+    <parameter name="password" value="Admin"></parameter>
+    <classes>
+      <class name="PART22.com.qa.testng.TC03_ParametersPassing"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

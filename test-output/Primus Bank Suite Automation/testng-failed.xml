@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Primus Bank Suite Automation]">
+  <test thread-count="5" name="Admin Login Test(failed)">
+    <parameter name="password" value="Admin"/>
+    <parameter name="url" value="http://primusbank.qedgetech.com/"/>
+    <parameter name="username" value="Admin"/>
+    <classes>
+      <class name="PART22.com.qa.testng.TC03_ParametersPassing">
+        <methods>
+          <include name="adminLogin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- PART22.com.qa.testng.TC03_ParametersPassing -->
+    </classes>
+  </test> <!-- Admin Login Test(failed) -->
+</suite> <!-- Failed suite [Primus Bank Suite Automation] -->
