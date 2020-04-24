@@ -24,7 +24,7 @@ public class ExplicitWait {
 		driver.manage().window().maximize();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().pageLoadTimeout(50,TimeUnit.SECONDS);
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        //driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.get("http://gmail.com");
         driver.findElement(By.id("identifierId")).sendKeys("demo.qedge");
         driver.findElement(By.id("identifierNext")).click();

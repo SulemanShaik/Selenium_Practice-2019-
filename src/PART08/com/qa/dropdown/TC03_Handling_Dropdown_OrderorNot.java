@@ -21,7 +21,7 @@ public class TC03_Handling_Dropdown_OrderorNot {
         driver.manage().timeouts().pageLoadTimeout(50,TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         
-        driver.get("https://www.wikipedia.org/");
+         driver.get("https://www.wikipedia.org/");
         Select sel = new Select(driver.findElement(By.id("searchLanguage")));
         List<WebElement>dropdownvalues=sel.getOptions();
         String str1,str2;
