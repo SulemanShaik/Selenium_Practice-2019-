@@ -15,9 +15,38 @@ There are 2 types of xpath:
 2.Relative Xpath
 
 
+Absolute Xpath: It uses Complete path from the Root Element to the desire element.
+Relative Xpath: You can simply start by referencing the element you want and gofrom there.
+ Relative Xpaths are always preferred as they are not the 
+ complete paths from the root element.
+ 
+The primary difference between XPath and CSS Selectors is that,
+with the XPath we can traverse both forward and backward whereas CSS selector
+only moves forward. Although CSS selectors perform far better than Xpath and it is
+well documented in Selenium community. It has following advantages over XPath as:
 
+Xpath engines are different in each browser, hence make them inconsistent
 
+  IE does not have a native xpath engine, therefore selenium injects its own xpath
+  engine for compatibility of its API. Thus losing the advantage of using native
+  browser features.
 
+  Xpath tend to become complex and hence make hard to read.
+
+  However there are some situations where, you need to use xpath, like while searching
+  for a parent element or searching element by its text.
+
+                           Custom CSS
+
+                                
+1.idhtmltag#id , #id
+2.class htmltag.classname, .classname, .c1.c2.c3, html.c1.c2.c3…cn
+3.parent>childtag
+
+4.htmltag[id='test']
+
+input[id='txtUsername']         CSS   with one attribute
+//input[@id=' txtUsername']    xpath
 
 
 

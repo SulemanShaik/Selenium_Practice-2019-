@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/PART001/com/qa/handling_XpathFuntions/XpathNotes=UTF-8
 encoding//src/PART19/com/qa/exceloperations/TC02_ExcelOperations_CountColumns.java=UTF-8
 encoding//src/PART19/com/qa/exceloperations/TC04_ExcelOperations_WritingData.java=UTF-8
 encoding//src/com/qa/fileuploadpopupbysendkeys/TC01_Fileupload.java=UTF-8
