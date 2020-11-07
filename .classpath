@@ -44,5 +44,7 @@
 	<classpathentry kind="lib" path="E:/Selenium Softwares/commons-io-2.6/commons-io-2.6-sources.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium Softwares/commons-io-2.6/commons-io-2.6-tests.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium Softwares/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Softwares/htmlunit-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Softwares/htmlunit-driver-2.44.0-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
